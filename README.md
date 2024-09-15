@@ -49,6 +49,10 @@
 - Best practices in cybersecurity for securing and ensuring compliance with industry standards
 - Designing automated workflows in Alteryx to streamline data preparation, blending, and advanced analytics
 
+📫 How to reach me...
+
+shetty.shrey@northeastern.edu
+
 
 ⚡️ Fun fact
 - I love watchng cricket and listening to podcasts about personal development. I'm always looking for new book or podcast recommendations!
