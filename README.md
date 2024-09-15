@@ -21,7 +21,7 @@
 
 
 
-## Other Common Github Profile Sections
+
 👩‍💻 I'm currently working on 
 - Building ETL pipelines using Azure Data Factory and Databricks for data transformation.
 - Analyzing data to derive insights for business and product strategies.
